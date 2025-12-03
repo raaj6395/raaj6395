@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Ankit Raj, a Full-Stack Developer passionate about building scalable systems, <br>clean APIs, and real-world products. Currently pursuing B.Tech in Electronics & Communication Engineering at MNNIT Allahabad,<br> I love solving problems through code and creating impactful digital experiences.
+I’m Ankit Raj, a Full-Stack Developer passionate about building scalable systems, clean APIs, and real-world products. Currently pursuing B.Tech in Electronics & Communication Engineering at MNNIT Allahabad, I love solving problems through code and creating impactful digital experiences.
 
 
 ## 🌐 Socials:
